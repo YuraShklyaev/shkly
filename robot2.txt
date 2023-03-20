@@ -1,0 +1,8 @@
+User-agent:*
+Disallow:/admin
+Disallow:/wp-admin/admin
+Disallow:/support
+Disallow:/index.php
+Disallow:/*&
+Allow:/error.html
+Host:www.shkl.ru
